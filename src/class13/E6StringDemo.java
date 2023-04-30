@@ -7,8 +7,10 @@ public class E6StringDemo {
         str.toLowerCase();
         System.out.println(str);
 
-        StringBuilder str2=new StringBuilder("Husband");
+        StringBuilder str2=new StringBuilder("hello");
+
         str2.reverse();
+
         System.out.println(str2);
     }
 }
