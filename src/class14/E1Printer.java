@@ -25,5 +25,9 @@ public class E1Printer {
         // we are calling the printWord() method on obj object and passing "java" as
         // argument or input
         obj.printWord("Java");
+        obj.printWord("Java");
+        obj.printWord("Java");
     }
+
+
 }
