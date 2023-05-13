@@ -1,7 +1,5 @@
 package class16;
 
-import class15.E1;
-
 public class Task1 {
  //create a method that will acceptand aarray as parameters and will return a sum of all elements from that array.
     //method should be visible only within same package
